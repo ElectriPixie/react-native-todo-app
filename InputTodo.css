@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
+
+.center {
+  text-align: center;
+}
+
+.input {
+  font-family: 'Special Elite', cursive;
+  box-shadow: 3px 3px 3px #333;
+}
+
+.button {
+  font-family: 'Special Elite', cursive;
+  margin: 5px;
+  box-shadow: 3px 3px 3px #333;
+}

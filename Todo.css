@@ -1,0 +1,11 @@
+.header {
+  color: #00bfff;
+  text-shadow: 3px 3px 3px #00394d;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
+
+.App {
+  margin: 10px;
+  font-family: 'Special Elite', cursive;
+  background: #007399;
+  box-shadow: 10px 10px 5px #888;
+  border-radius: 15px;
+  min-height: 90vh;
+}
